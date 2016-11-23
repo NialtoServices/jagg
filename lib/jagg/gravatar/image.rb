@@ -1,6 +1,6 @@
 module JAGG
   class Gravatar
-    # This class holds an image contained within the profile data.
+    # This class acts as a wrapper around an image URL.
     #
     class Image
       class << self
